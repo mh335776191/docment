@@ -1,0 +1,7 @@
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Debug\Plugin.Core.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Debug\Plugin.Core.pdb
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Debug\Autofac.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Debug\Autofac.xml
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\obj\Debug\Plugin.Core.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\obj\Debug\Plugin.Core.pdb
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\obj\Debug\Plugin.Core.csprojResolveAssemblyReference.cache

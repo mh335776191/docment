@@ -1,0 +1,14 @@
+﻿{
+    'Guid': '2304e992-d781-4d04-8504-2d4e45c4e58f',
+    'Type': 'Module',
+    'Areas': { 'admin': '','news': '/Areas/News' ,'special':'/Areas/Special'},
+    'GroupName': '',
+    'NickName': '改写插件平台的测试',
+    'Version': '1.0.0.0',
+    'Author': 'zzh',
+    'AssemblyNames':['Plugin.Admin.dll'],
+    'Status':1,
+    'SortIndex': 1,
+	'Config':'',
+    'Intro': '把独立网站作为插件进行加载，这个是测试插件'
+}

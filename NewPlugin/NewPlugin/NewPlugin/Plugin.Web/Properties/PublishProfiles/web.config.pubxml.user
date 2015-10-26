@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>H:\IIS\Plugins</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/lalala/Views/lalala/index.cshtml">
+      <publishTime>03/31/2015 16:19:04</publishTime>
+    </File>
+    <File Include="Areas/lalala/Views/web.config">
+      <publishTime>03/31/2015 16:16:30</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>04/22/2015 12:04:34</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>04/22/2015 11:04:14</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.Mvc.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/Ionic.Zip.dll">
+      <publishTime>04/22/2015 11:04:16</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>03/28/2015 19:05:03</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2015 11:04:16</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>03/28/2015 19:05:03</publishTime>
+    </File>
+    <File Include="bin/protobuf-net.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/Sun.BaseOperate.dll">
+      <publishTime>04/27/2015 16:18:05</publishTime>
+    </File>
+    <File Include="bin/Sun.Core.dll">
+      <publishTime>04/27/2015 16:18:02</publishTime>
+    </File>
+    <File Include="bin/Sun.Framework.dll">
+      <publishTime>04/27/2015 16:42:07</publishTime>
+    </File>
+    <File Include="bin/Sun.Model.dll">
+      <publishTime>04/27/2015 16:18:03</publishTime>
+    </File>
+    <File Include="bin/Sun.Web.dll">
+      <publishTime>04/27/2015 16:42:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/22/2015 11:04:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/28/2015 18:52:31</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/22/2015 11:04:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>04/22/2015 11:04:15</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>04/22/2015 12:04:01</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Helpers.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Mvc.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.Razor.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Web.WebPages.resources.dll">
+      <publishTime>04/22/2015 11:04:19</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap-theme.css">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap-theme.css.map">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap-theme.min.css">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap.css">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap.css.map">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/css/bootstrap.min.css">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/js/bootstrap.min.js">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/bootstrap/js/npm.js">
+      <publishTime>04/11/2015 12:06:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/jquery-1.11.2.min.js">
+      <publishTime>04/16/2015 12:28:54</publishTime>
+    </File>
+    <File Include="Content/Scripts/jquery-1.8.3.min.js">
+      <publishTime>04/04/2015 12:51:27</publishTime>
+    </File>
+    <File Include="Content/Scripts/laytpl.js">
+      <publishTime>04/16/2015 11:13:24</publishTime>
+    </File>
+    <File Include="Content/Scripts/library.js">
+      <publishTime>04/16/2015 11:13:59</publishTime>
+    </File>
+    <File Include="Content/Scripts/sunpage.js">
+      <publishTime>04/16/2015 11:14:11</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery-ui-1.10.4.min.css">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery-ui-1.10.4.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/css/jquery.plupload.queue.css">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/backgrounds.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/buttons-disabled.png">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/buttons.png">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/delete.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/done.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/error.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/throbber.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/img/transp50.png">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/jquery.plupload.queue.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.plupload.queue/jquery.plupload.queue.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.ui.plupload/css/jquery.ui.plupload.css">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.ui.plupload/img/loading.gif">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.ui.plupload/img/plupload.png">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.ui.plupload/jquery.ui.plupload.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/jquery.ui.plupload/jquery.ui.plupload.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/moxie.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/moxie.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/Moxie.swf">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/Moxie.xap">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/plupload.full.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/plupload.min.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Content/Scripts/upload/zh_CN.js">
+      <publishTime>04/16/2015 14:10:04</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/27/2015 23:20:38</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/22/2015 12:04:35</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>04/17/2015 16:44:59</publishTime>
+    </File>
+    <File Include="Views/Home/NavPart.cshtml">
+      <publishTime>04/16/2015 13:34:00</publishTime>
+    </File>
+    <File Include="Views/Home/Zips.cshtml">
+      <publishTime>04/20/2015 15:30:19</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>04/15/2015 11:59:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/27/2015 16:42:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

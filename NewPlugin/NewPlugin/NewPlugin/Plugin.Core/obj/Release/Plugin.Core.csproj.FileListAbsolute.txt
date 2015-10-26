@@ -1,0 +1,6 @@
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Release\Plugin.Core.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Release\Plugin.Core.pdb
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Release\Autofac.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\bin\Release\Autofac.xml
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\obj\Release\Plugin.Core.dll
+E:\project\pc\fangchan\News\NewPlugin\NewPlugin\Plugin.Core\obj\Release\Plugin.Core.pdb
